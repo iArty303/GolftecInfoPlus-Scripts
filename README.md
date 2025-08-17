@@ -1,1 +1,1 @@
-# GolftecInfoPlus-Scripts
+Here is the collection of scripts that helped the improvement of warehouse operations at Golftec, using Info Plus WMS. The scripts in the file are made using Javascript and working with Info Plus API.
